@@ -1,0 +1,69 @@
+Manhatten: A Bike Story
+
+What phenomena can we uncover from examinations of the CitiBike data from April of 2019 and April of 2020?
+Especial concerns of the managers of the program are what types of people are using the bikes, how we can
+encourage other folks to use the system, which stations are most popular with which people on which days,
+and how COVID has impacted ridership of all sorts. 
+
+Slide 1: Manhatten Stations
+There are 46 stations in the Lower East side of Manhatten. This expoloration of ridership data between
+April 2019 and April 2020 examines the patterns of total ridership between those two months and also the
+differences in gender usage between the years and among the different stations.This data can be used to
+adjust placements of stations to encourage usage by different rider groups or to streamline restocking
+of stations on weekdays or weekends. 
+
+Slide 2: Users by Gender, 2019 v 2020
+First, a little background. There are a multiple demographics that utilize the Citibikes. The gender 
+categories are Male, Female, and Other. Here's how they play out in 2019 v 2020: 
+Females and Others increased as a proportion of ridership in 2020, but overall numbers of all 
+demographics are significantly lower. Please note the differences in scale between the years. 
+
+Slide 3: Ages of Genders
+The ages of the gender demographics are fairly comparable for males and females. The sharp spike and 
+the hovering around the x-axis for Gender_Other leads one to suspect that 1970 is the default birth for
+users entering their data, a date that the users did not bother to specify, which might also 
+be the case with the lack of gender specificity. 
+
+Slide 4: Station Usage by Gender
+The gender categories use different stations around lower Manhatten. The Gender_Other category 
+concentrates around the input/output of major thoroughfares, implying that perhaps they are commuting 
+from outer buroughs. Females and Others use different and fewer stations in Lower Manhatten than males. 
+
+Slide 5: Trip Length 2019 v 2020
+Now let's start looking at year to year data. There are sharp spikes around the first of the month, 
+possibly when people aspire to non-motorized commuting before falling off the wagon, metaphorially 
+speaking. Again, please note the scale of the visualizations. The length of trip declined 
+significantly in 2020.
+
+Slide 6: Weekdays v Weekends
+The stations are used differently on weekdays v weekends. Weekdays are concentrated in the interior 
+of the city. Weekends show more activity near the input/output areas, likely reflecting people commuting 
+in for weekend events rather than workweek laborers. 
+
+Slide 7: Weekdays 2019 v 2020
+Things changed a lot between 2019 and 2020. In 2019, weekday trips were concentrated in the Lower East 
+Side district of 07310/07302 (zip codes). In 2020, trips were must more dispsered around the center 
+of the island, perhaps indicating that these trips were made for purposes other than workweek commuting.
+
+Slide 8: Weekends, 2019 v 2020
+Weekend trips in 2020 were also notably different than in 2019. the concentration of trips shifted 
+from the southern major-thoroughfare entry point to the eastern one. There were also fewer trips into 
+the central district. One point of interest is that the station at Hoboken Ave. does not appear on the 
+2019 map, but is prominent on the 2020 map. 
+
+Slide 9: Overall Trips Taken, 2019 v 2020
+You can see that trips declined by two-thirds between April 2019 and April 2020. The obvious attribution
+for this is the COVID-related lockdowns experienced by NYC in 2020. 
+
+Conclusion: 
+In 2020, a higher proportion of females and gender_others used the CitiBikes, but many fewer people 
+overall took trips. The stations used changed notably, spreading farther apart and becoming less 
+concentrated in central districts, which also reflects the pre-COVID patterns of females and gender_others.
+Weekend and weekday patterns also changed, showing different points of entry and exit. More time and 
+research is needed to determine how 2021 will fare...
+
+Working with the data results that we have, suggestions can be made for moving bikes to the most-used
+stations depending on which genders are most likely to be using the bikes, on weekends or weekdays.
+Further analysis of what commonalities the stations most used by females and gender_others have could
+be done. Placing additional stations where non-males are likely to use them could encourage additional
+ridership by other folks. 
